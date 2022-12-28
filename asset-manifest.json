@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://2002gokula.github.io/csb-4v7ene/static/css/main.9a1f55cd.chunk.css",
+    "main.js": "https://2002gokula.github.io/csb-4v7ene/static/js/main.e450a192.chunk.js",
+    "main.js.map": "https://2002gokula.github.io/csb-4v7ene/static/js/main.e450a192.chunk.js.map",
+    "runtime-main.js": "https://2002gokula.github.io/csb-4v7ene/static/js/runtime-main.66e5ddb5.js",
+    "runtime-main.js.map": "https://2002gokula.github.io/csb-4v7ene/static/js/runtime-main.66e5ddb5.js.map",
+    "static/js/2.799660dc.chunk.js": "https://2002gokula.github.io/csb-4v7ene/static/js/2.799660dc.chunk.js",
+    "static/js/2.799660dc.chunk.js.map": "https://2002gokula.github.io/csb-4v7ene/static/js/2.799660dc.chunk.js.map",
+    "index.html": "https://2002gokula.github.io/csb-4v7ene/index.html",
+    "static/css/main.9a1f55cd.chunk.css.map": "https://2002gokula.github.io/csb-4v7ene/static/css/main.9a1f55cd.chunk.css.map",
+    "static/js/2.799660dc.chunk.js.LICENSE.txt": "https://2002gokula.github.io/csb-4v7ene/static/js/2.799660dc.chunk.js.LICENSE.txt",
+    "static/media/index.31d6cfe0.bin": "https://2002gokula.github.io/csb-4v7ene/static/media/index.31d6cfe0.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e5ddb5.js",
+    "static/js/2.799660dc.chunk.js",
+    "static/css/main.9a1f55cd.chunk.css",
+    "static/js/main.e450a192.chunk.js"
+  ]
+}
